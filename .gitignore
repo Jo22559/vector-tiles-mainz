@@ -1,0 +1,8 @@
+﻿.DS_Store
+
+# Quelldaten bleiben lokal
+/data/
+
+# Population bleibt lokal
+tiles/population.pmtiles
+tiles_xyz/population/
